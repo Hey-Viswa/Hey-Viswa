@@ -1,4 +1,5 @@
-[![Banner]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
+![Banner](https://images.app.goo.gl/2mJ17jfY2osWAxVLA)
+
 # 💫 About Me:
 I'm a student currently learning Android Development and Flutter.
 
