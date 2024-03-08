@@ -1,4 +1,4 @@
-(["C:\Users\agent\Downloads\jetpack.gif"](https://images.app.goo.gl/2mJ17jfY2osWAxVLA))
+(https://images.app.goo.gl/2mJ17jfY2osWAxVLA)
 
 # 💫 About Me:
 I'm a student currently learning Android Development and Flutter.
