@@ -1,4 +1,4 @@
-![Header]([./jetpack.gif](https://images.app.goo.gl/nR5G3cRi1uXSeTs5A))
+![Header](https://images.app.goo.gl/nR5G3cRi1uXSeTs5A)
 
 # 💫 About Me:
 I'm a student currently learning Android Development and Flutter.
