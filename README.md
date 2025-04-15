@@ -9,8 +9,7 @@
 </p>
 
 ---
-
-- 🔭 Currently building **Hostelgic – A Hostel Management App** using Flutter & Firebase  
+  
 - 🌱 Actively learning **Jetpack Compose**, **Flutter**, and **Backend Integration (Ktor, Firebase)**  
 - 👨‍💻 Explore my projects at [github.com/heyviswa](https://github.com/heyviswa)  
 - 🎯 Tech stack includes **Kotlin**, **Flutter**, **Next.js**, **Node.js**, **Firebase**, **Clerk**, and **MongoDB**  
