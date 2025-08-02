@@ -42,17 +42,9 @@
 
 ### 📱 Highlight Projects
 
-- **🛏️ Hostelgic**  
-  *Hostel Management App with real-time data syncing*  
-  `Flutter`, `Firebase Firestore`, `REST APIs`
-
-- **🗒️ Nottx**  
+- **🗒️ GoogleKeepLite**  
   *Minimal note-taking app with offline support*  
   `Android`, `Jetpack Compose`, `Room DB`
-
-- **🏋️‍♂️ Fitness App** *(In Progress)*  
-  *Structured navigation and modular UI*  
-  `Jetpack Compose`, `Jetpack Navigation`
 
 ---
 
