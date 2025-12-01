@@ -70,11 +70,6 @@ Tech: `Compose` `Room DB` `MVVM`
 
 ---
 
-### 🎨 **DSA Visualizer — Algorithms in Motion**  
-Interactive algorithm visualizations in the browser.  
-Tech: `React` `Tailwind` `Zustand`
-
----
 
 ## 💼 **Experience**
 
