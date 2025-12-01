@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm **Viswaranjan Giri**
+# 👋 Hey, I'm **Biswaranjan Giri**
 
 ### 🚀 Full-Stack Developer (MERN) • Backend Engineer • SaaS Builder  
 ### 🎬 I build systems, apps & cinematic tech experiences.
