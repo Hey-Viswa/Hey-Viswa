@@ -1,119 +1,117 @@
-👋 Hi, I'm Biswaranjan Giri
+# 👋 Hi, I'm **Viswaranjan Giri**
 
-Full-Stack Developer (MERN) • Backend Engineer • Creator of StudioFlow
+### 🚀 Full-Stack Developer (MERN) • Backend Engineer • Creator of StudioFlow
 
-<div align="center"> [![Profile Views](https://komarev.com/ghpvc/?username=heyviswa&label=Profile%20Views&color=3b82f6&style=flat)](https://github.com/heyviswa) [![GitHub Followers](https://img.shields.io/github/followers/heyviswa?label=Followers&style=social)](https://github.com/heyviswa?tab=followers) </div>
-📎 Contact
+![Profile Views](https://komarev.com/ghpvc/?username=heyviswa&label=Profile%20Views&color=3b82f6&style=flat)
+[![GitHub Followers](https://img.shields.io/github/followers/heyviswa?label=Followers&style=social)](https://github.com/heyviswa?tab=followers)
 
-📍 Pen, Maharashtra, India
+---
 
-✉️ viswaranjan.dev@gmail.com
+## 📎 Contact  
+- **Location:** Pen, Maharashtra, India  
+- **Email:** viswaranjan.dev@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/biswaranjangiri  
+- **Phone:** 8623839568  
 
-🔗 LinkedIn: linkedin.com/in/biswaranjangiri 
+---
 
-Profile
+## 🔭 Summary  
+I’m a full-stack developer who loves taking ideas from **concept → production**.  
+I build scalable backends, clean frontends, and real-time systems using the MERN ecosystem.
 
-📱 8623839568 (mobile) — listed on profile. 
+Recently, I’ve been building **StudioFlow**, a workflow SaaS for creators, featuring:
 
-Profile
+- Node.js + Express modular backend  
+- MongoDB models  
+- Redis + BullMQ background jobs  
+- Real-time updates with WebSockets  
+- AWS S3 for file delivery  
+- Razorpay billing + webhook automation  
+- RBAC v2 (Owners / Members / Clients)  
+- Deployed via Railway + Vercel  
 
-🔭 Summary
+Used successfully for delivering **real client video editing pipelines**.
 
-I’m a full-stack web developer who loves taking ideas from concept → production. I work across the MERN stack to build scalable backends, clean frontends, real-time features, and production-ready systems. Recently I’ve focused on building StudioFlow, an end-to-end workflow SaaS for creative teams — shipping features like RBAC v2, real-time updates, background workers, payments, and secure file delivery. 
+---
 
-Profile
+## 🧰 Tech Stack
 
-Core outcomes from StudioFlow
+### **Languages**
+`JavaScript` `TypeScript` `Kotlin` `Java` `Python` `Dart`
 
-Built Node.js + Express backend with modular architecture
+### **Frontend**
+`React` `Next.js` `Tailwind CSS` `Framer Motion`
 
-MongoDB for scalable models, Redis + BullMQ for background jobs
+### **Backend**
+`Node.js` `Express` `MongoDB` `Redis` `BullMQ` `REST APIs`
 
-WebSockets for real-time updates, AWS S3 for file storage
+### **Cloud / Infra**
+`AWS (S3)` `Railway` `Vercel` `Razorpay`
 
-Razorpay integration for milestone billing + webhook automation
+### **Mobile**
+`Android (Kotlin)`  
+`Jetpack Compose` (beginner–intermediate)
 
-RBAC V2: Owners / Team Members / Clients + ownership transfer
+### **Tools**
+`Git` `GitHub` `Postman` `Figma` `Sentry`
 
-Deployed: frontend on Vercel, backend on Railway
+---
 
-Production result: used for real client deliveries (video editing projects). 
+## 🚀 Featured Projects
 
-Profile
+### **StudioFlow (SaaS)**  
+A production-ready workflow platform for video editing teams.
 
-🛠 Top Skills
+Tech: `Express` `Node.js` `MongoDB` `Redis` `BullMQ` `Socket.io` `AWS S3` `Razorpay` `Next.js`
 
-Express.js · Node.js · MongoDB · WebSockets · Redis · BullMQ · AWS S3 · Razorpay · React · Next.js · Tailwind · Framer Motion · TypeScript · REST APIs · RBAC
-(Top skills listed in the PDF include Express.js, AWS, and MongoDB). 
+---
 
-Profile
+### **GoogleKeepLite**  
+Minimal offline-first note app using Jetpack Compose + Room.
 
-🧰 Tech Stack
+Tech: `Android` `Jetpack Compose` `Room DB` `MVVM`
 
-Languages: JavaScript TypeScript Kotlin Java Dart Python
-Frontend: React Next.js Tailwind CSS Framer Motion
-Backend: Node.js Express MongoDB Redis BullMQ
-Cloud & Infra: AWS (S3) Railway Vercel Razorpay
-Mobile: Android (Kotlin), basic Jetpack Compose knowledge
-Tools: Git, Postman, Figma, Sentry
+---
 
-🚀 Selected Projects
-StudioFlow — Founder & Full-Stack Engineer (Oct 2025 – Present)
+### **DSA Visualizer**  
+Interactive visual animations for classic algorithms.
 
-A production-grade SaaS for creative teams to manage projects, revisions, invoicing, payments and file delivery. Built with Node.js, Express, MongoDB, Redis + BullMQ, Socket.io, AWS S3, and Razorpay. Implemented RBAC V2, real-time features, background workers and a complete client portal. Deployed on Railway / Vercel — used to manage real client video-editing deliveries. 
+Tech: `React` `Tailwind` `Zustand`
 
-Profile
+---
 
-GoogleKeepLite
+## 💼 Experience
 
-Minimal offline-first note app (Android) using Jetpack Compose & Room DB. Focused on performance and a clean, minimal UX.
+### **Full-Stack Engineer — StudioFlow (Founder)**  
+*Oct 2025 – Present*  
+Architected and shipped the entire platform — backend, frontend, billing, real-time systems, delivery, RBAC.
 
-DSA Visualizer
+---
 
-Interactive visualizations of algorithms for learning and teaching — built in React.
+### **Android Developer Intern — JSW**  
+Built a feedback management system to improve operational workflows.
 
-(You can add GitHub links to each project for quick access.)
+---
 
-💼 Experience
+### **Internships & Training**  
+- Internshala (Android Dev)  
+- Acmegrade (Web Dev)  
 
-StudioFlow — Founder & Full-Stack Engineer (Oct 2025 – Present). Built the full platform and shipped production workflows. 
+---
 
-Profile
+## 🎓 Education
 
-JSW — Android Developer (June 2023 – July 2023). Built a feedback management system that improved operational efficiency. 
+**B.E. Computer Engineering** — Pillai HOC College (2024–2027)  
+**Diploma in Computer Technology** — Govt. Polytechnic Pen (2021–2024)
 
-Profile
+---
 
-Internships & training: Internshala Android training, Acmegrade Web Dev, and others listed in profile. 
+## 🌐 Connect with Me
 
-Profile
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biswaranjangiri)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viswaranjan.dev@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyviswa)
 
-🎓 Education
+---
 
-Pillai HOC College of Engineering and Technology — B.E., Computer Engineering (Sep 2024 – Jun 2027). 
-
-Profile
-
-Government Polytechnic, Pen — Diploma in Computer Technology (Aug 2021 – Jul 2024). 
-
-Profile
-
-📈 What I care about
-
-Building systems that scale and are easy to reason about.
-
-Shipping features that solve real problems for creators.
-
-Clear engineering ownership: observability, retryable jobs, and robust billing flows.
-
-Polished UX — meaningful motion + performance.
-
-📬 Let’s connect
-
-LinkedIn: linkedin.com/in/biswaranjangiri 
-
-Profile
-
-Email: viswaranjan.dev@gmail.com 
-
-Profile
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
