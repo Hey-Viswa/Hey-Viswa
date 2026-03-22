@@ -2,93 +2,104 @@
 
 # 👋 Hey, I'm **Biswaranjan Giri**
 
-### 🚀 Full-Stack Developer (MERN) • Backend Engineer • SaaS Builder  
-### 🎬 I build systems, apps & cinematic tech experiences.
+### 🚀 Full-Stack Developer • SaaS Builder • System Thinker
+
+### ⚡ Building real-world products from **idea → production**
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=heyviswa&label=Views&color=3b82f6&style=flat)
-[![Followers](https://img.shields.io/github/followers/heyviswa?label=Follow&style=social)](https://github.com/heyviswa?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=heyviswa\&label=Views\&color=3b82f6\&style=flat)
+[![Followers](https://img.shields.io/github/followers/heyviswa?label=Follow\&style=social)](https://github.com/heyviswa?tab=followers)
 
 </div>
 
 ---
 
-## 🔭 **About Me**
+## 🧠 **About Me**
 
-I’m a developer who loves taking ideas from **zero → production**.  
-I build clean frontends, scalable backends, real-time systems, and smooth developer experiences.  
+I don’t just build apps — I build **systems that solve real problems**.
 
-Currently building **StudioFlow**, a complete workflow SaaS for creative teams — including RBAC, WebSockets, S3, BullMQ, and Razorpay billing.
+Currently building **StudioFlow**, a production-grade SaaS used to manage real client workflows, payments, and delivery pipelines.
 
-Focused on  
-✔ Clean architecture  
-✔ Real-world engineering  
-✔ Developer & creator workflows  
-✔ Motion + UX + performance  
+I focus on:
+✔ Scalable backend architecture
+✔ Real-time systems (WebSockets, queues)
+✔ Clean, performant frontend
+✔ Developer-first product thinking
+
+---
+
+## 🚀 **What I'm Building**
+
+### ⭐ **StudioFlow — Workflow SaaS for Creators**
+
+A real-world SaaS platform handling projects, revisions, invoices, file delivery, and payments.
+
+**Key Highlights:**
+
+* Real-time collaboration (WebSockets + Redis)
+* Payment system (Razorpay webhooks)
+* File delivery via AWS S3
+* RBAC-based access control
+* Queue system using BullMQ
+
+**Tech Stack:**
+`Node.js` `Express` `MongoDB` `Redis` `BullMQ` `Socket.io` `AWS S3` `Razorpay` `Next.js`
 
 ---
 
 ## 🛠️ **Tech Stack**
 
-<div align="center">
+### **Core**
 
-### **Languages**  
-`JavaScript` • `TypeScript` • `Kotlin` • `Java` • `Dart` • `Python`
+`JavaScript` • `TypeScript` • `React` • `Next.js` • `Node.js` • `Express`
 
-### **Frontend**  
-`React` • `Next.js` • `Tailwind` • `Framer Motion`  
+### **Backend & Systems**
 
-### **Backend**  
-`Node.js` • `Express` • `MongoDB` • `Redis` • `BullMQ` • `REST APIs` • `Socket.io`
+`MongoDB` • `Redis` • `BullMQ` • `REST APIs` • `WebSockets`
 
-### **Cloud & Infra**  
-`AWS S3` • `Railway` • `Vercel` • `Razorpay`  
+### **Cloud & Infra**
 
-### **Mobile**  
-`Android (Kotlin)` • Jetpack Compose (Beginner)
+`AWS S3` • `Railway` • `Vercel`
 
-### **Tools**  
-`Git` • `GitHub` • `Postman` • `Figma` • `Sentry`
+### **Mobile**
 
-</div>
+`Android (Kotlin)` • Jetpack Compose
+
+### **Tools**
+
+`Git` • `Postman` • `Figma` • `Sentry`
 
 ---
 
-## 🚀 **Featured Projects**
+## 🧩 **Other Projects**
 
-### ⭐ **StudioFlow — Creator Workflow SaaS**  
-A production-grade platform for managing real client video deliveries.  
+### 🧠 **CivicLens — AI Civic Issue Platform**
 
-Tech: `Node.js` `Express` `MongoDB` `Redis` `BullMQ` `Socket.io` `AWS S3` `Razorpay` `Next.js`  
+Built backend with JWT auth, real-time updates, and AI classification using OpenAI API.
 
----
+### 📝 **GoogleKeepLite — Android Notes App**
 
-### 📝 **GoogleKeepLite — Jetpack Compose Note App**  
-Offline-first minimal note app using modern Android architecture.  
-Tech: `Compose` `Room DB` `MVVM`
+Offline-first app using Jetpack Compose + MVVM architecture.
 
 ---
-
 
 ## 💼 **Experience**
 
-### **Full-Stack Engineer — StudioFlow (Founder)**  
-Developed the entire platform: backend architecture, real-time systems, billing, RBAC, frontend, and deployment.
+### **Founder & Full-Stack Engineer — StudioFlow**
 
-### **Android Developer Intern — JSW**  
-Built a feedback management system for internal teams.
+Designed and built complete SaaS architecture including backend, real-time systems, payments, and deployment.
 
-### **Internships & Training**  
-Internshala — Android Development  
-Acmegrade — Web Development  
+### **Android Developer Intern — JSW**
+
+Built internal feedback system using modern Android architecture.
 
 ---
 
 ## 🎓 **Education**
 
-- **B.E. Computer Engineering** — Pillai HOC College (2024–2027)  
-- **Diploma in Computer Technology** — Govt. Polytechnic, Pen (2021–2024)
+* **B.E. Computer Engineering** — Pillai HOC College (2024–2027)
+* **Diploma in Computer Technology** — Govt. Polytechnic, Pen (2021–2024)
 
 ---
 
@@ -96,9 +107,9 @@ Acmegrade — Web Development
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biswaranjangiri)  
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viswaranjan.dev@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyviswa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/biswaranjangiri)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:viswaranjan.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/heyviswa)
 
 </div>
 
