@@ -9,7 +9,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=heyviswa\&label=Views\&color=3b82f6\&style=flat)
-[![Followers](https://img.shields.io/github/followers/heyviswa?label=Follow\&style=social)](https://github.com/Hey-Viswa/Hey-Viswa?tab=followers)
+[![Followers](https://img.shields.io/github/followers/Hey-Viswa?label=Follow\&style=social)](https://github.com/Hey-Viswa/Hey-Viswa?tab=followers)
 
 </div>
 
