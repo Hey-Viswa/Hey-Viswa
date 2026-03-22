@@ -19,7 +19,7 @@
 
 I don’t just build apps — I build **systems that solve real problems**.
 
-Currently building **StudioFlow**, a production-grade SaaS used to manage real client workflows, payments, and delivery pipelines.
+Built **StudioFlow**, a production-grade SaaS used to manage real client workflows, payments, and delivery pipelines.
 
 I focus on:
 ✔ Scalable backend architecture
@@ -29,7 +29,7 @@ I focus on:
 
 ---
 
-## 🚀 **What I'm Building**
+## 🚀 **What I Built**
 
 ### ⭐ **StudioFlow — Workflow SaaS for Creators**
 
